@@ -22,7 +22,7 @@ pyscreenshot
 
 ## Method
 1. Install all the requirements:
-    pip install pytesseract PILLOW pyscreenshot
+```pip install pytesseract PILLOW pyscreenshot```
 2. Run your required program (Parser.py / Tesseract.py) using python3
 3. Move the mouse for the left top corner of the required region on the screen and press ENTER
 4. Move the mouse to the right bottom corner of the required region on the screen and press ENTER
